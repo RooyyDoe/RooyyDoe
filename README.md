@@ -10,7 +10,7 @@
 [![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-square&logo=medium&logoColor=white)](https://medium.com/@rdakuijper)
 
 
-# ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=RooyyDoe.visitor-badge) ~ I'm delighted you stopped by. 
+# I'm delighted you stopped by. 
 
 - 🌱  &nbsp; I’m currently learning Typescript & React
 - 💬  &nbsp; Ask me anything; I enjoy a good conversation.
