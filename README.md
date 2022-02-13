@@ -13,8 +13,6 @@
 # ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=RooyyDoe.visitor-badge) ~ I'm delighted you stopped by. 
 
 - 🌱  &nbsp; I’m currently learning Typescript & React
-- 👯  &nbsp; I’m looking to collaborate on projects related towards gamification & serious gaming
-- 🤔  &nbsp; I’m looking for help with finding new challenges
 - 💬  &nbsp; Ask me anything; I enjoy a good conversation.
 - 📫  &nbsp; You can reach me through Mail or Discord
 - 🤓  &nbsp; Gaming nerd 
