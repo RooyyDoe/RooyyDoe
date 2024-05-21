@@ -12,6 +12,7 @@
 # I'm delighted you stopped by. 
 
 - 🌱  &nbsp; I work a lot with Typescript & React
+- 📚  &nbsp; I am currently expanding my knowledge of Next.js and MongoDB
 - 💬  &nbsp; Ask me anything; I enjoy a good conversation.
 - 📫  &nbsp; You can reach out to me through Mail or Discord
 - 🤓  &nbsp; Gaming nerd 
